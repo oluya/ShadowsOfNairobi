@@ -1,0 +1,2 @@
+# ShadowsOfNairobi
+ **"Shadows of Nairobi"** is an interactive, text-based adventure game developed in Python using the Tkinter library. You play as Detective Malik, tasked with solving a series of disappearances in the heart of Nairobi. With each decision, you uncover new leads and must choose between pursuing justice or serving your own interests. The game features branching storylines, moral choices, and two different endings depending on how you play.
